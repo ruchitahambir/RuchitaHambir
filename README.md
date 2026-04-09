@@ -9,12 +9,13 @@ I specialize in Low-Code Development and AI-Driven Workflow Optimization. Curren
 
 🤝 Collaboration: I’m always looking for guidance and interesting projects to collaborate on!
 
-🛠 Tech Stack
-Low-Code: OutSystems
+### 🛠 Tech Stack
 
-Cloud & DevOps: Azure, DevOps Pipelines
-
-AI/ML: LLM Implementation, AI Optimizations
+| Category | Skills |
+| :--- | :--- |
+| **Low-Code** | ![OutSystems](https://img.shields.io/badge/outsystems-white?style=for-the-badge&logo=outsystems&logoColor=red) |
+| **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| **AI & Research** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 <!--
 **ruchitahambir/RuchitaHambir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
